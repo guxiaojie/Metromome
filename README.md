@@ -1,4 +1,0 @@
-Metromome
-=========
-
-Metromome

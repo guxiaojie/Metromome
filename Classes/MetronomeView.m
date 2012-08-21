@@ -246,11 +246,6 @@ CGFloat RadiansToDegrees(CGFloat radians) {return radians * 180/M_PI;};
 - (void)touchesCancelled:(NSSet *)touches withEvent:(UIEvent *)event {
     tempoChangeInProgress = NO;
     [self stopSoundAndArm];
-    
-    
-    
-    
-
 }
 
 
